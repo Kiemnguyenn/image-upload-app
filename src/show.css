@@ -1,0 +1,25 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bt-back {
+    border: none;
+    width: 100px;
+    padding: 5px;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.bt-back:hover {
+    cursor: pointer;
+}
+
+.icon-back {
+    padding-right: 5px;
+}
